@@ -1,0 +1,36 @@
+
+        ul.a {
+            list-style-type: circle
+        }
+                label {
+                    font-size: 12px;
+                }
+        
+                body {
+                    /* font-size: 20px; */
+                    font-style: italic;
+                    background-image: url(Graysand.jpg);
+                    background-repeat: repeat-x;
+                    /*background-attachment: fixed;*/
+                    background-color: #808080
+                }
+        
+                h1 {
+                    text-shadow: 2px 3px #adad85;
+                }
+        
+                h2 {
+                    font-family: 'Times New Roman', Times, serif;
+                }
+        
+                .border-radius {
+                    border-radius: 50%;
+                    border: 1px solid #adad85;
+                    width: 325px;
+                }
+        
+                .text {
+                    font-weight: bold;
+                    text-transform: capitalize;
+                }
+        
